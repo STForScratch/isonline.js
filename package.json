@@ -1,0 +1,8 @@
+{
+  "name": "isonline.js",
+  "version": "1.0.1",
+  "author": "Ronan Gantzos <info@scratchtools.app>",
+  "dependencies": {
+    "node-fetch": "^3.3.1"
+  }
+}
